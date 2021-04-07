@@ -44,7 +44,7 @@ int main() {
 		else {
 			cout << "Badeline win" << endl;
 		}
-		//test git
+		//test git2
 		fin.close();
 		string name1 = "";
 		stringstream ss1;
